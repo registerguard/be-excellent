@@ -1,6 +1,6 @@
 # Be excellent to eachother...
 
-### ... Why? Because this repository *RULE*s!
+### ... Why? Because this repository <i>RULE</i>s!
 
 [Intersystems](http://www.intersystems.com/)' [Caché](http://www.intersystems.com/cache/index.html): RULE boilerplate and examples.
 
